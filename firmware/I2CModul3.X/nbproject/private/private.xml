@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/apps/I2CModul3/firmware/src/main.c</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/framework/peripheral/i2c/templates/i2c_ReceivedByteAvailable_Default.h</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/apps/I2CModul3/firmware/src/system_config/default/framework/driver/i2c/src/drv_i2c_static.c</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/framework/peripheral/i2c/templates/i2c_BusIdle_Default.h</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/apps/I2CModul3/firmware/src/system_config/default/framework/driver/i2c/drv_i2c_static.h</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/framework/driver/i2c/drv_i2c_compatibility.h</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/apps/I2CModul3/firmware/src/app.c</file>
+            <file>file:/D:/Dropbox/Code/Harmony/v2_05_01/apps/I2CModul3/firmware/src/system_config/default/system_tasks.c</file>
+        </group>
+    </open-files>
+</project-private>
